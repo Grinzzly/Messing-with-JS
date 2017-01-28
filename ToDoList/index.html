@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>ToDo List</title>
+		<link rel="stylesheet" href="css/ToDo.css">
+	</head>
+	<body>
+		<div class="container">
+  		<h2>Tasks to Do</h2>
+  		<p><em>Click and drag to reorder, double click to cross an item off.</em></p>
+
+  		<form name="toDoList">
+    		<input type="text" name="ListItem"/>
+  		</form>
+			<form>
+  			<div id="button">Add</div>
+  			<div id="button2">Archive</div>
+			</form>
+  		<br/>
+			<p><em><span id = 'done'></span> completed out of <span id = 'all'></span></em></p>
+  		<ol></ol>
+		</div>
+
+		<script src = "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+		<script src = "https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.js"></script>
+		<script src = "js/main.js"></script>
+
+	</body>
+</html>
