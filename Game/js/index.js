@@ -360,13 +360,13 @@ function game() {
             if(playing) {
                 _asteroids();
 
-                ctx.font = "20px Verdana";
-                ctx.fillStyle = "white";
+                ctx.font = "30px VT323";
+                ctx.fillStyle = "#696969";
                 ctx.textBaseline = 'middle';
                 ctx.textAlign = "left";
                 ctx.fillText('Record: '+record+'', 20, 30);
 
-                ctx.font = "40px Verdana";
+                ctx.font = "40px VT323";
                 ctx.fillStyle = "white";
                 ctx.strokeStyle = "black";
                 ctx.textAlign = "center";
@@ -383,19 +383,19 @@ function game() {
             ctx.rect(0,0, cW,cH);
             ctx.fill();
 
-            ctx.font = "60px Verdana";
+            ctx.font = "60px VT323";
             ctx.fillStyle = "white";
             ctx.textAlign = "center";
             ctx.fillText("GAME OVER",cW/2,cH/2 - 150);
 
-            ctx.font = "20px Verdana";
+            ctx.font = "20px VT323";
             ctx.fillStyle = "white";
             ctx.textAlign = "center";
             ctx.fillText("Total destroyed: "+ destroyed, cW/2,cH/2 + 140);
 
             record = destroyed > record ? destroyed : record;
 
-            ctx.font = "20px Verdana";
+            ctx.font = "20px VT323";
             ctx.fillStyle = "white";
             ctx.textAlign = "center";
             ctx.fillText("RECORD: "+ record, cW/2,cH/2 + 185);
