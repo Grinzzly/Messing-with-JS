@@ -1,0 +1,2 @@
+Currently studying git, and found out about existence of such a great thing as a GitKraken.
+Now I'll try to coomit few small changes through this great APP.
