@@ -15,6 +15,6 @@ This repository include tasks from courses, distance learning programs and those
 
 ## Be sure that you checked out my native JS game below
 
+* <a href="https://grinzzly.github.io/Messing-with-JS/Game/" target="_blank">Game</a><br>
 * <a href="https://grinzzly.github.io/Messing-with-JS/LiveSearch/" target="_blank">Live Search</a><br>
 * <a href="https://grinzzly.github.io/Messing-with-JS/ToDoList/" target="_blank">Todo list</a><br>
-* <a href="https://grinzzly.github.io/Messing-with-JS/Game/" target="_blank">### Game ###</a><br>
