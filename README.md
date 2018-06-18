@@ -16,7 +16,9 @@ This repository include tasks from courses, distance learning programs and those
 ## This Repo Includes
 <div align="center">
   <h3>Fancy Calculator </h3>
-  Tons of cool native animation.
+  <div align="left">
+    Tons of cool animation in one simple calculator.
+  </div>
   <br/>
   <br/>
   <div>
@@ -34,6 +36,12 @@ This repository include tasks from courses, distance learning programs and those
 <hr/>
 <div align="center">
   <h3>Asteroids Game</h3>
+  <div align="left">
+    An implementation of the classic Asteroids Game using Canvas
+    & Vanila JS.
+  </div>
+  <br/>
+  <br/>
   <div>
     <a href="https://grinzzly.github.io/Messing-with-JS/Game/">
       <img src="./vendor/ui-kit/img/open.png"
@@ -49,6 +57,11 @@ This repository include tasks from courses, distance learning programs and those
 <hr/>
 <div align="center">
   <h3>Live Search Component</h3>
+  <div align="left">
+    Live Search Component on native JS with session storage.
+  </div>
+  <br/>
+  <br/>
   <div>
     <a href="https://grinzzly.github.io/Messing-with-JS/LiveSearch/">
       <img src="./vendor/ui-kit/img/open.png"
@@ -64,6 +77,12 @@ This repository include tasks from courses, distance learning programs and those
 <hr/>
 <div align="center">
   <h3>Web Resume</h3>
+  <div align="left">
+    Even Full-Stack web-developer may create something beautiful ones in
+    a while.
+  </div>
+  <br/>
+  <br/>
   <div>
     <a href="https://grinzzly.github.io/Messing-with-JS/Resume/">
       <img src="./vendor/ui-kit/img/open.png"
@@ -79,7 +98,10 @@ This repository include tasks from courses, distance learning programs and those
 <hr/>
 <div align="center">
   <h3>ToDo List</h3>
-  Native JS ToDo List with Session Storage and sorting implementation
+  <div align="left">
+    ToDo List with Session Storage and sorting implementation.
+    JS and jUnit in a cage.
+  </div>
   <br/>
   <br/>
   <div>
@@ -97,6 +119,12 @@ This repository include tasks from courses, distance learning programs and those
 <hr/>
 <div align="center">
   <h3>Voicer</h3>
+  <div align="left">
+    A way to make every phrase way more preposterous using my very
+    own imagination and pinch of Google API.
+  </div>
+  <br/>
+  <br/>
   <div>
     <a href="https://grinzzly.github.io/Messing-with-JS/Voicer/">
       <img src="./vendor/ui-kit/img/open.png"
