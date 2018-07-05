@@ -117,24 +117,3 @@ jQurey, GatsbyJS</b>
         </a>
   </div>
 </div>
-<hr/>
-<div align="center">
-  <h3>Voicer</h3>
-  <div align="left">
-    A way to make every phrase way more preposterous using my very
-    own imagination and pinch of Google API.
-  </div>
-  <br/>
-  <br/>
-  <div>
-    <a href="https://grinzzly.github.io/Messing-with-JS/Voicer/">
-      <img src="./vendor/ui-kit/img/open.png"
-        alt="open">
-    </a>
-    &nbsp;
-    <a href="./Voicer">
-          <img src="./vendor/ui-kit/img/go-to-repo.png"
-            alt="go-to">
-        </a>
-  </div>
-</div>
