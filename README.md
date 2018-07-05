@@ -10,8 +10,9 @@
 
 ## About
 
-Repository include projects with usage <b>CSS3, HTML5, JavaScript, jQurey, jQureyUI, VueJS, AngularJS, VanilaJS, NodeJs(<i>Gulp, BrowserSync, util, console</i>), Canvas </b>
-This repository include tasks from courses, distance learning programs and those which was made up for myself.
+Repository includes some fancy code pieces with usage of <b>VanillaJS,
+ReactJS, VueJS, AngularJS, CSS3, HTML5, NodeJs, Canvas, GoogleAPI,
+jQurey, GatsbyJS</b>
 
 ## This Repo Includes
 <div align="center">
