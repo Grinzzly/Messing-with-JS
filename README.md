@@ -15,105 +15,52 @@ ReactJS, VueJS, AngularJS, CSS3, HTML5, NodeJs, Canvas, GoogleAPI,
 jQurey, GatsbyJS</b>
 
 ## This Repo Includes
-<div align="center">
-  <h3>Fancy Calculator </h3>
-  <div align="left">
-    Tons of cool animation in one simple calculator.
-  </div>
-  <br/>
-  <br/>
-  <div>
-    <a href="https://grinzzly.github.io/Messing-with-JS/Calculator/">
-      <img src="./vendor/ui-kit/img/open.png"
-        alt="open">
-    </a>
-    &nbsp;
-    <a href="./Calculator">
-          <img src="./vendor/ui-kit/img/go-to-repo.png"
-            alt="go-to">
-        </a>
-  </div>
-</div>
+
+### Fancy Calculator
+
+Tons of cool animation in one simple calculator.
+
+* [Launch](https://grinzzly.github.io/Messing-with-JS/Calculator/)
+
+* [Go to repo](./Calculator)
+
 <hr/>
-<div align="center">
-  <h3>Asteroids Game</h3>
-  <div align="left">
-    An implementation of the classic Asteroids Game using Canvas
-    & Vanila JS.
-  </div>
-  <br/>
-  <br/>
-  <div>
-    <a href="https://grinzzly.github.io/Messing-with-JS/Game/">
-      <img src="./vendor/ui-kit/img/open.png"
-        alt="open">
-    </a>
-    &nbsp;
-    <a href="./Game">
-          <img src="./vendor/ui-kit/img/go-to-repo.png"
-            alt="go-to">
-        </a>
-  </div>
-</div>
+
+### Asteroids Game
+
+An implementation of the classic Asteroids Game using Canvas.
+
+* [Launch](https://grinzzly.github.io/Messing-with-JS/Asteroids/)
+
+* [Go to repo](./Asteroids)
+
 <hr/>
-<div align="center">
-  <h3>Live Search Component</h3>
-  <div align="left">
-    Live Search Component on native JS with session storage.
-  </div>
-  <br/>
-  <br/>
-  <div>
-    <a href="https://grinzzly.github.io/Messing-with-JS/LiveSearch/">
-      <img src="./vendor/ui-kit/img/open.png"
-        alt="open">
-    </a>
-    &nbsp;
-    <a href="./LiveSearch">
-          <img src="./vendor/ui-kit/img/go-to-repo.png"
-            alt="go-to">
-        </a>
-  </div>
-</div>
+
+### Asteroids Game
+
+Live Search Component vanilla JS with storing search results into session storage.
+
+* [Launch](https://grinzzly.github.io/Messing-with-JS/LiveSearch/)
+
+* [Go to repo](./LiveSearch)
+
 <hr/>
-<div align="center">
-  <h3>Web Resume</h3>
-  <div align="left">
-    Even Full-Stack web-developer may create something beautiful ones in
-    a while.
-  </div>
-  <br/>
-  <br/>
-  <div>
-    <a href="https://grinzzly.github.io/Messing-with-JS/Resume/">
-      <img src="./vendor/ui-kit/img/open.png"
-        alt="open">
-    </a>
-    &nbsp;
-    <a href="./Resume">
-          <img src="./vendor/ui-kit/img/go-to-repo.png"
-            alt="go-to">
-        </a>
-  </div>
-</div>
+
+### Web Resume
+
+Learning CSS animations in a way of layouting(it isn't a word, right?) fancy web-page resume
+
+* [Launch](https://grinzzly.github.io/Messing-with-JS/Resume/)
+
+* [Go to repo](./Resume)
+
 <hr/>
-<div align="center">
-  <h3>ToDo List</h3>
-  <div align="left">
-    ToDo List with Session Storage and sorting implementation.
-    JS and jUnit in a cage.
-  </div>
-  <br/>
-  <br/>
-  <div>
-    <a href="https://grinzzly.github.io/Messing-with-JS/ToDoList/">
-      <img src="./vendor/ui-kit/img/open.png"
-        alt="open">
-    </a>
-    &nbsp;
-    <a href="./ToDoList">
-          <img src="./vendor/ui-kit/img/go-to-repo.png"
-            alt="go-to">
-        </a>
-  </div>
-</div>
+
+### ToDo List
+
+ToDo List with Session Storage and sorting options. Pure JS and jUnit in a cage.
+
+* [Launch](https://grinzzly.github.io/Messing-with-JS/ToDoList/)
+
+* [Go to repo](./ToDoList)
+

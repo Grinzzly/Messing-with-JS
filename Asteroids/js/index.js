@@ -9,7 +9,7 @@ window.onload = function() {
     spriteExplosion.src = 'https://s3-us-west-2.amazonaws.com/s.cdpn.io/600764/explosion.png';
 };
 
-//Game
+//Asteroids
 function game() {
 
     //Canvas
@@ -18,7 +18,7 @@ function game() {
         cH     = ctx.canvas.height = window.innerHeight,
         cW     = ctx.canvas.width  = window.innerWidth ;
 
-    //Game
+    //Asteroids
     var bullets    = [],
         asteroids  = [],
         explosions = [],
@@ -284,7 +284,7 @@ function game() {
                 asteroids[i].realX += asteroids[i].coordsX;
                 asteroids[i].realY += asteroids[i].coordsY;
 
-                //Game over
+                //Asteroids over
                 distance = Math.sqrt(Math.pow(asteroids[i].realX -  cW/2, 2) + Math.pow(asteroids[i].realY - cH/2, 2));
                 if (distance < (((asteroids[i].width/asteroids[i].size) / 2) - 4) + 100) {
                     gameOver = true;
