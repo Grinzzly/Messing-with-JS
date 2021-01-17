@@ -36,7 +36,7 @@ An implementation of the classic Asteroids Game using Canvas.
 
 <hr/>
 
-### Asteroids Game
+### Live search
 
 Live Search Component vanilla JS with storing search results into session storage.
 
